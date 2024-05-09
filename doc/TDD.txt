@@ -1,0 +1,27 @@
+TDD = Test Driven Development 
+    Desenvolvimento direcionado por teste 
+
+    - o objetivo não é exatamente a qualidade do software , embora ajude --> Engenharia de software
+    - antecipa a construção dos testes de unidade em relação ao próprio desenvolvimento 
+    - ter um controle mais efetivo sobre o progresso do projeto -> Gestão de Projeto 
+
+Como seria a rotina de um time que adote TDD
+    - Imaginemos uma Sprint de 1 semana 
+    - Segunda de manhã : todos do time se reunem numa cerimonia chamada Sprint Planning
+                        vamos decidir as user stories (estória ou história do usuário)
+                        vamos escrever tarefas necessárias para realizar o desenvolvimento , teste , pesquisa, etc
+                        Termina com um monte de post-its do que tem de ser feito 
+    - Segunda de tarde : PO e QA/Tester vão combinar os critérios de aceitação --> cenários de teste 
+                        Devs vão criar o esqueleto do código com as novas funcionalidades para atender 
+
+Como as pessoas sabem o que está ficando pronto na Sprint ? 
+        --> Reunião Diaria(Daily)
+        --> atualizar kanban 
+        --> atualizar o gráfico de burn down 
+        
+                                                        
+
+
+
+
+
